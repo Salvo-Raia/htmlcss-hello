@@ -1,7 +1,7 @@
 # Esercizio: Hello GIT
-* Nome repo: `htmlcss-hello`
+Nome repo: `htmlcss-hello`
 
-## Esercizio
+## Consegna
 - Creare la cartella del nuovo progetto
 - Aprirla con VSCode
 - Creare un file HTML di base

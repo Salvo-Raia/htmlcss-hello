@@ -3,6 +3,7 @@
 Nome repo: `htmlcss-hello`
 
 ## Consegna
+
 * Creare la cartella del nuovo progetto
 
 * Aprirla con VSCode

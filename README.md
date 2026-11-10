@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+
 # 🎓 Exercise 02/50 - A day at the museum (Una giornata al museo)
 
 Creating an HTML project and managing its development through Git and GitHub.

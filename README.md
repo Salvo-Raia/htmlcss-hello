@@ -26,7 +26,7 @@ Creating an HTML project and managing its development through Git and GitHub.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 💡 What I Learned
+## 🧠 What I learned
 
 - Creating and organizing a web development project.
 - Setting up a GitHub repository.

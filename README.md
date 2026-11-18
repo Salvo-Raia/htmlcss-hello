@@ -15,12 +15,9 @@ Creating an HTML project and managing its development through Git and GitHub.
 
 ## Assignment
 
-- Create a folder for the new project.
-- Open it with VS Code.
-- Create a basic HTML file.
-- Create a GitHub repository and perform the first commit.
-- Perform the first push.
-- Continue developing the proposed layout incrementally until completion, committing changes regularly.
+Create a new project folder and open it in VS Code, then set up a basic HTML file. Create a GitHub repository and push the initial commit. 
+
+Develop the proposed layout incrementally until completion, making regular commits to track your progress.
 
 ## Technologies
 

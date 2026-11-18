@@ -4,14 +4,11 @@
 
 Creating an HTML project and managing its development through Git and GitHub.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | htmlcss-hello |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 02/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| htmlcss-hello | A day at the museum | Exercise | HTML, Git & GitHub | 02/50 |
 
 ## Assignment
 

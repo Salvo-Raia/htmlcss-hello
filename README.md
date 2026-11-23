@@ -2,7 +2,7 @@
 
 # Exercise 02/50: A day at the museum
 
-Creating an HTML project and managing its development through Git and GitHub.
+Building an HTML webpage while learning to manage project development with Git and GitHub.
 
 ## Project overview
 
@@ -12,7 +12,9 @@ Creating an HTML project and managing its development through Git and GitHub.
 
 ## Assignment
 
-Create a new project folder and open it in VS Code, then set up a basic HTML file. Create a GitHub repository and push the initial commit. 
+Create a new project folder and open it in VS Code. Then, set up a basic HTML file.
+
+Create a GitHub repository and push the initial commit.
 
 Develop the proposed layout incrementally until completion, making regular commits to track your progress.
 
@@ -24,7 +26,7 @@ Develop the proposed layout incrementally until completion, making regular commi
 
 - Creating and organizing a web development project.
 - Setting up a GitHub repository.
-- Performing commits and pushes.
+- Creating commits and pushing changes.
 - Managing project development incrementally with Git.
 
 ## Credits

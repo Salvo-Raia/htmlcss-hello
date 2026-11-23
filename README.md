@@ -8,7 +8,7 @@ Building an HTML webpage while learning to manage project development with Git a
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-hello | A day at the museum | Exercise | HTML, Git & GitHub | 02/50 |
+| htmlcss-hello | A day at the museum | Exercise | HTML, Git, GitHub | 02/50 |
 
 ## Assignment
 
